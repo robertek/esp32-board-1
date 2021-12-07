@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name tp4056)(type Legacy)(uri ${KIPRJMOD}/kicad-libraries/tp4056.lib)(options "")(descr ""))
+  (lib (name ht78xx)(type Legacy)(uri ${KIPRJMOD}/kicad-libraries/ht78xx.lib)(options "")(descr ""))
+)
