@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name RT9080-33GJ5)(type KiCad)(uri ${KIPRJMOD}/libs/RT9080-33GJ5)(options "")(descr ""))
+  (lib (name SHT40)(type KiCad)(uri ${KIPRJMOD}/libs/SHT40)(options "")(descr ""))
+  (lib (name STC4054)(type KiCad)(uri ${KIPRJMOD}/libs/STC4054)(options "")(descr ""))
+)

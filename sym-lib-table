@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name tp4056)(type Legacy)(uri ${KIPRJMOD}/kicad-libraries/tp4056.lib)(options "")(descr ""))
-  (lib (name ht78xx)(type Legacy)(uri ${KIPRJMOD}/kicad-libraries/ht78xx.lib)(options "")(descr ""))
+  (lib (name RT9080-33GJ5)(type Legacy)(uri ${KIPRJMOD}/libs/RT9080-33GJ5/RT9080-33GJ5.lib)(options "")(descr ""))
+  (lib (name STC4054GR)(type Legacy)(uri ${KIPRJMOD}/libs/STC4054/STC4054GR.lib)(options "")(descr ""))
+  (lib (name SHT40-AD18-R2)(type Legacy)(uri ${KIPRJMOD}/libs/SHT40/SHT40-AD18-R2.lib)(options "")(descr ""))
 )
